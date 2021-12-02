@@ -1,0 +1,27 @@
+/* Stijlen voor Auteurswet */
+html{
+    text-decoration: none;
+}
+body{  
+background-size:cover;
+width: 40%;
+width: 20%;
+margin-top: 40px;
+margin-bottom: 40px;
+margin-left: 40px;
+margin: right 10px;;
+text-shadow: 5px 5px 10px red;
+background-color: rgb(165, 173, 157);
+}
+h4{ color:dodgerblue;}
+h2 {color:firebrick;
+    margin: 1000px;
+text-decoration: underline;
+font-family: sans-serif;}
+h5{ text-align: center;}
+footer { font-size: 20px;
+background-color:dodgerblue;
+text-align: center;
+max-height: none;
+font-family: Verdana, Arial, sans-serif;}
+
