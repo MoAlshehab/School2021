@@ -3,14 +3,14 @@ html{
     height: 100%;
     width: 100%;
     background-color: lightgray;
-    overflow:auto;
-    
+   
+   
     }
       body{ 
 
    width: 50%;
    margin-left: 20%;
-   margin-right: 2%;
+   margin-right: 20%;
    border: 8px solid;
 background-color:beige;
    
@@ -19,6 +19,12 @@ background-color:beige;
     color: #000;
     font-size: 16px;
     font-style:normal;
+    }
+
+  b{
+      color: cornflowerblue;
+
+      margin-left: 2%;
     }
     
     h4 { font-size: 16px; 
